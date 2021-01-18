@@ -1,4 +1,13 @@
 # Whare Kōrero App Privacy
+
+## Summary
+
+### Personal Information
+We don't collect any personal information on you. Unless you contact us via email or telephone, we'll never know *who* you are or be able to collect any personal information.
+
+### Content Analytics
+We collect anonymous statistics on the content that you view and play in our App. This helps us report back to stakeholders on the value of Māori and indigenous media, and it helps better inform what types of content our communities wish to access.
+
 ## Introduction
 Te Reo Irirangi o Te Hiku o Te Ika (we, us, our) complies with the New Zealand Privacy Act 2020 (the Act) when dealing with personal information. Personal information is information about an identifiable individual (a natural person).
 
@@ -44,6 +53,6 @@ If you follow a link on our website to another site, the owner of that site will
 ## Analytics
 We collect statistics on content that is accessed in the App. This is essential to ensure Māori content is funded and to better understand what types of content our communities find important. All statistics we collect are anonymous and no personal information is collected in the process.
 
-We collect aggregated information on what content is viewed and played and how much of that content is played.
+We collect aggregated information on what content is viewed and played and how much of that content is played. We also record the time that the content was accessed. We do not record your IP address, location, or any other identifiable information.
 
 This aggregate, anonymous information may be shared with third parties such as public broadcasting funding agencies for the purpose of securing continual funding for Māori content.
