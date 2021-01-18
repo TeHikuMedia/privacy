@@ -56,3 +56,6 @@ We collect statistics on content that is accessed in the App. This is essential 
 We collect aggregated information on what content is viewed and played and how much of that content is played. We also record the time that the content was accessed. We do not record your IP address, location, or any other identifiable information.
 
 This aggregate, anonymous information may be shared with third parties such as public broadcasting funding agencies for the purpose of securing continual funding for Māori content.
+
+
+***You can view this policy and its history [here](https://github.com/TeHikuMedia/privacy/blob/tumu/wharekorero_app.md).***
