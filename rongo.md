@@ -10,13 +10,13 @@ We create a _unique code_ associated with your usage of the App. This enables th
 
 If and only if you decide to share your recordings with us, then we will collect those recordings and metadata associated with those recordings. Your unique code will also be associated with these recordings and their metadata.
 
-If and only if you decide to log in to the Rongo App, then we will collect your email. Your email is used to associate your personal information (email) with your unique code. This enables features such as using Rongo accross multiple devices as well as any new features that require you to have an account with the App.
+If and only if you decide to log in to the Rongo App, then we will collect your email. Your email is used to associate your personal information (email) with your unique code. This enables features such as using Rongo across multiple devices as well as any new features that require you to have an account with the App.
 
-All data we collect falls under our [Kaitiakitanga License](/kaitiakitanga). We may use data you share with us to improve our services or to coduct Māori-led research on pronunciation. For example, recordings you share with us may be used to train new models for pronunciation, or we may use those recordings to identify common pronunciation mistakes made be learners of te reo Māori.
+All data we collect falls under our [Kaitiakitanga License](/kaitiakitanga). We may use data you share with us to improve our services or to conduct Māori-led research on pronunciation. For example, recordings you share with us may be used to train new models for pronunciation, or we may use those recordings to identify common pronunciation mistakes made be learners of te reo Māori.
 
 ### Te Reo Māori and Mātauranga Māori
 
-The data you may decide to share with us from Rongo will create unpreccedented opportunities for future Māori-led research around te reo Māori and the evolution of the sounds of te reo Māori in a post-colonial age. We may, from time to time, work with third party researchers such as Māori scholars, Māori language communities, or Universities to conduct this research.
+The data you may decide to share with us from Rongo will create unprecedented opportunities for future Māori-led research around te reo Māori and the evolution of the sounds of te reo Māori in a post-colonial age. We may, from time to time, work with third party researchers such as Māori scholars, Māori language communities, or Universities to conduct this research.
 
 ## Introduction
 
@@ -44,7 +44,7 @@ We will only collect your email when you decide to Log In to the Rongo App. Your
 
 We will use your personal information:
 
-- to provide certain features and services of the App including but not limited to the ability to log in and use the app accross multiple devices,
+- to provide certain features and services of the App including but not limited to the ability to log in and use the app across multiple devices,
 - to respond to communications from you, including a complaint
 - to protect and/or enforce our legal rights and interests, including defending any claim
 - for any other purpose authorised by you or the Act.
