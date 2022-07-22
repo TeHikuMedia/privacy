@@ -12,7 +12,7 @@ If and only if you decide to share your recordings with us, then we will collect
 
 If and only if you decide to log in to the Rongo App, then we will collect your email. Your email is used to associate your personal information (email) with your unique code. This enables features such as using Rongo across multiple devices as well as any new features that require you to have an account with the App.
 
-All data we collect falls under our [Kaitiakitanga License](/kaitiakitanga). We may use data you share with us to improve our services or to conduct Māori-led research on pronunciation. For example, recordings you share with us may be used to train new models for pronunciation, or we may use those recordings to identify common pronunciation mistakes made be learners of te reo Māori.
+All data we collect falls under our [Kaitiakitanga License](/kaitiakitanga). We may use data you share with us to improve our services or to conduct Māori-led research on pronunciation. For example, recordings you share with us may be used to train new models for pronunciation, or we may use those recordings to identify common pronunciation mistakes made by learners of te reo Māori.
 
 ### Te Reo Māori and Mātauranga Māori
 
