@@ -44,17 +44,17 @@ We will only collect your email when you decide to Log In to the Rongo App. Your
 
 We will use your personal information:
 
-- to provide certain features and services of the App including but not limited to the ability to log in and use the app across multiple devices,
-- to respond to communications from you, including a complaint
-- to protect and/or enforce our legal rights and interests, including defending any claim
+- to provide certain features and services of the App including but not limited to the ability to log in and use the app across multiple devices;
+- to respond to communications from you, including a complaint;
+- to protect and/or enforce our legal rights and interests, including defending any claim;
 - for any other purpose authorised by you or the Act.
 
 ## Disclosing your personal information
 
 We may disclose your personal information to:
 
-- a person who can require us to supply your personal information (e.g. a regulatory authority)
-- any other person authorised by the Act or another law (e.g. a law enforcement agency)
+- a person who can require us to supply your personal information (e.g. a regulatory authority);
+- any other person authorised by the Act or another law (e.g. a law enforcement agency);
 - any other person authorised by you.
 
 A business that supports our services and products may be located outside New Zealand. This may mean your personal information is held and processed outside New Zealand.
@@ -77,7 +77,7 @@ If you want to exercise either of the above rights, email us at privacy@tehiku.n
 
 ### Deleting Your Data
 
-You may delete all data associated with your usage of the Rongo App in the Settings of the App. This action cannot be undone. Your data will be scheduled for deletion and it may take up to 24 hours for your data to be deleted. If you would like to expedite the deletion process, or if you wish to cancel the deletion process, you should <a href="mailto:awhina@rongo.app?subject=Deleting my data">contact us promptly.</a>
+You may delete all data associated with your usage of the Rongo App in the Settings of the App. This action cannot be undone. Your data will be scheduled for deletion and it may take up to 24 hours for your data to be deleted. If you would like to expedite the deletion process, or if you wish to cancel the deletion process, you should <a href="mailto:awhina@rongo.app?subject=Deleting my data">contact us promptly</a>.
 
 Unless you request your data to be deleted, we will look after it indefinitely under our [Kaitiakitanga License](/kaitiakitanga).
 
