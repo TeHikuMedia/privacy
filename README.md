@@ -1,4 +1,7 @@
 # Privacy Policies for Various Te Hiku Media Services
 
-- Whare Kōrero: [wharekorero_app.md](https://github.com/TeHikuMedia/privacy/blob/tumu/wharekorero_app.md)
-- Kōrero Māori: []()
+- **[Whare Kōrero](https://wharekōrero.nz/privacy)** [[source](https://raw.githubusercontent.com/TeHikuMedia/privacy/tumu/wharekorero_app.md)]
+- **[Kaituhi](https://kaituhi.nz/privacy)** [[source](https://raw.githubusercontent.com/TeHikuMedia/privacy/tumu/kaituhi.md)]
+- **[Rongo](https://rongo.app/privacy)** [[source](https://raw.githubusercontent.com/TeHikuMedia/privacy/tumu/rongo.md)]
+- **[Papa Reo](https://papareo.io/privacy)** [[source](https://raw.githubusercontent.com/TeHikuMedia/privacy/tumu/papareo_api.md)]
+- **[Kōrero Māori](https://koreromaori.com/privacy)**
