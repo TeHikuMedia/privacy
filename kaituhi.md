@@ -28,7 +28,7 @@ We collect personal information directly from you.
 
 We will use your personal information:
 
-- to provide certain features and services of the App including but not limited to the ability to log in and use the app across multiple devices;
+- to provide certain features and services of Kaituhi including but not limited to the ability to log in and use Kaituhi across multiple devices;
 - to respond to communications from you, including a complaint;
 - to protect and/or enforce our legal rights and interests, including defending any claim;
 - for any other purpose authorised by you or the Act.
@@ -47,7 +47,7 @@ A business that supports our services and products may be located outside New Ze
 
 We will take reasonable steps to keep your personal information safe from loss, unauthorised activity, or other misuse.
 
-All network communication from Rongo to our servers is done using TLS.
+All network communication from Kaituhi to our servers is done using TLS.
 
 Only authorised staff at Te Reo Irirangi o Te Hiku o Te Ika (Te Hiku Media) can access to your personal information.
 
