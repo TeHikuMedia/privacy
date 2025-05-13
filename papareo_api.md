@@ -4,7 +4,7 @@
 
 ### Personal Information
 We collect your email in order to contact you and provide the API services.
-We may also collection your billing and payment information in order to supply these services.
+We may also collect your billing and payment information in order to supply these services.
 
 ### Analytics & Metrics
 We collect statistics on your API usage. We also collect logs of your usage in order to ensure we provide reliable services.
