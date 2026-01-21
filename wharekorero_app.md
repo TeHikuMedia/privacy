@@ -6,7 +6,7 @@
 We don't collect any personal information on you. Unless you contact us via email or telephone, we'll never know *who* you are or be able to collect any personal information.
 
 ### Content Analytics
-We collect anonymous statistics on the content that you view and play in our App. This helps us report back to stakeholders on the value of Māori and indigenous media, and it helps better inform what types of content our communities wish to access.
+We collect anonymous statistics on the content that you view and play in our App. This helps us report back to stakeholders on the value of Māori and Indigenous media, and it helps better inform what types of content our communities wish to access.
 
 ## Introduction
 Te Reo Irirangi o Te Hiku o Te Ika (we, us, our) complies with the New Zealand Privacy Act 2020 (the Act) when dealing with personal information. Personal information is information about an identifiable individual (a natural person).

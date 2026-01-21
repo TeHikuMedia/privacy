@@ -16,7 +16,7 @@ All data we collect falls under our [Kaitiakitanga License](/kaitiakitanga). We 
 
 ### Te Reo Māori and Mātauranga Māori
 
-The data you may decide to share with us from Rongo will create unprecedented opportunities for future Māori-led research around te reo Māori and the evolution of the sounds of te reo Māori in a post-colonial age. We may, from time to time, work with third party researchers such as Māori scholars, Māori language communities, or Universities to conduct this research.
+The data you may decide to share with us from Rongo will create unprecedented opportunities for future Māori-led research around te reo Māori and the evolution of the sounds of te reo Māori in a post-colonial age. We may, from time to time, work with third party researchers such as Māori scholars, Māori language communities, or universities to conduct this research.
 
 ## Introduction
 

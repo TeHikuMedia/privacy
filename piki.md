@@ -8,13 +8,13 @@ We collect some personal information on you in order to provide the services of 
 
 We create a _unique code_ associated with your usage of the App. This allows us to understand how many minutes of audio our users are transcribing with Piki.
 
-If and only if you decide to share your recordings with us, then we will collect those recordings and metadata associated with those recordings. Your unique code will also be associated with these recordings and their metadata. This unique code allows us to delete your data when you request to delete your data. Currently, we do now allow or request users of Piki to share their data with us, but we may do so in future updates.
+If and only if you decide to share your recordings with us, then we will collect those recordings and metadata associated with those recordings. Your unique code will also be associated with these recordings and their metadata. This unique code allows us to delete your data if you request to delete your data. Currently, we do now allow or request users of Piki to share their data with us, but we may do so in future updates.
 
 All data we collect falls under our [Kaitiakitanga License](/piki/kaitiakitanga). We may use data you share with us to improve our services or to conduct Māori-led research. For example, recordings you share with us may be used to train new models.
 
 ### Te Reo Māori and Mātauranga Māori
 
-The data you may decide to share with us from Piki will create unprecedented opportunities for future Māori-led research around te reo Māori and the evolution of the sounds of te reo Māori in a post-colonial age. We may, from time to time, work with third party researchers such as Māori scholars, Māori language communities, or Universities to conduct this research.
+The data you may decide to share with us from Piki will create unprecedented opportunities for future Māori-led research around te reo Māori and the evolution of the sounds of te reo Māori in a post-colonial age. We may, from time to time, work with third party researchers such as Māori scholars, Māori language communities, or universities to conduct this research.
 
 ## Introduction
 
