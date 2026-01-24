@@ -10,7 +10,7 @@ We create a _unique code_ associated with your usage of the App. This allows us 
 
 If and only if you decide to share your recordings with us, then we will collect those recordings and metadata associated with those recordings. Your unique code will also be associated with these recordings and their metadata. This unique code allows us to delete your data if you request to delete your data. Currently, we do now allow or request users of Piki to share their data with us, but we may do so in future updates.
 
-All data we collect falls under our [Kaitiakitanga License](/piki/kaitiakitanga). We may use data you share with us to improve our services or to conduct Māori-led research. For example, recordings you share with us may be used to train new models.
+All data we collect falls under our [Kaitiakitanga License](https://papareo.io/piki/kaitiakitanga). We may use data you share with us to improve our services or to conduct Māori-led research. For example, recordings you share with us may be used to train new models.
 
 ### Te Reo Māori and Mātauranga Māori
 
